@@ -8,9 +8,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "MyTube - YouTube Clone",
-  description: "A YouTube clone built with Next.js and the YouTube API",
-  generator: "v0.dev",
+  title: "Clip-Lab ",
+  description: "A YouTube built with Next.js and the YouTube API",
+  generator: "Mr ~FZ",
 }
 
 export default function RootLayout({ children }) {
